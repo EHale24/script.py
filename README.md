@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="lexi-banner.png" alt="Lexi the Chatbot Banner" width="100%">
+</p>
+
 # Lexi the Chatbot
 
 Lexi is my very first Python chatbot project, created as part of my journey into learning programming and cloud technology!
